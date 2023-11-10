@@ -1,0 +1,12 @@
+usopp - Portfolio website Content
+----------------------------------------------------
+About me
+----------------------------------------------------
+Greetings! I'm Kallol Bairagi, a passionate Backend and DevOps engineer with a knack for crafting robust and scalable solutions. Over the past three years, I've immersed myself in the world of software development, contributing to various projects that have sharpened my skills and broadened my perspective.
+
+My technical arsenal includes proficiency in Java, Spring Boot, Docker, Kubernetes, MySQL, MongoDB and Apache Kafka Whether it's architecting new systems or enhancing existing ones, with a profound appreciation for leveraging cloud technologies, possessing extensive experience with utilizing AWS services, I thrive on creating and building efficient, maintainable, and scalable backend solutions.
+----------------------------------------------------
+Introduction
+----------------------------------------------------
+Passionate, Result-Driven Engineer with a Strong Drive for Innovation to build scalable Distributed Applications.
+Love for Kubernetes <3
