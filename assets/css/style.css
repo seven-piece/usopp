@@ -7,7 +7,7 @@
 
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 225;
+  --hue-color: 240;
   /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
   /* HSL color mode */
@@ -23,6 +23,7 @@
   --container-color: #fff;
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
+  --footer-color: hsl(var(--hue-color), 95%, 9%);
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
@@ -497,6 +498,7 @@ img {
 .skills__name {
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
+
 }
 
 
@@ -874,11 +876,17 @@ img {
 }
 
 .footer__bg {
-  background-color: var(--first-color);
+  background-color: var(--footer-color);
   padding: 2rem 0 3rem;
 }
 
 .footer__title {
+  font-size: var(--h1-font-size);
+  margin-bottom: var(--mb-0-25);
+  font-weight: 100;
+}
+
+.footer__title2 {
   font-size: var(--h1-font-size);
   margin-bottom: var(--mb-0-25);
 }
@@ -914,6 +922,7 @@ footer .footer__social a:hover {
 }
 
 .footer__title,
+.footer__title2,
 .footer__subtitle,
 .footer__link,
 .footer__social {
